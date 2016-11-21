@@ -7,7 +7,7 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>HELLO!</h1>
+        <h1>HELLO RTF!</h1>
 
         
     </div>
